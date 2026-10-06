@@ -1,0 +1,9 @@
+G:\.net\bai5.4\bai5.4\bin\Debug\bai5.4.exe.config
+G:\.net\bai5.4\bai5.4\bin\Debug\bai5.4.exe
+G:\.net\bai5.4\bai5.4\bin\Debug\bai5.4.pdb
+G:\.net\bai5.4\bai5.4\obj\Debug\bai5.4.csproj.AssemblyReference.cache
+G:\.net\bai5.4\bai5.4\obj\Debug\bai5._4.Properties.Resources.resources
+G:\.net\bai5.4\bai5.4\obj\Debug\bai5.4.csproj.GenerateResource.cache
+G:\.net\bai5.4\bai5.4\obj\Debug\bai5.4.csproj.CoreCompileInputs.cache
+G:\.net\bai5.4\bai5.4\obj\Debug\bai5.4.exe
+G:\.net\bai5.4\bai5.4\obj\Debug\bai5.4.pdb
